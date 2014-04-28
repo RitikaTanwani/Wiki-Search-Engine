@@ -1,2 +1,3 @@
-cd ./Project
-./script.sh path/to/evaluate.xml
+How to run on terminal:
+
+./script.sh path/to/xmlfile
